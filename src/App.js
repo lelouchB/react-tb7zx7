@@ -1,11 +1,11 @@
+
 import React from "react";
-import './App.css'
-function App() {
+import "./style.css";
+
+export default function App() {
   return (
-    <div className="App">
-    <button className="click">Click Me!</button>
+    <div className="example">
+    
     </div>
   );
 }
-
-export default App;
